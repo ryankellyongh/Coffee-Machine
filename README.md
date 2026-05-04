@@ -1,22 +1,26 @@
-# Coffee Machine Project
+# Coffee Maker Python Project
 
-This is a Python coffee machine simulation project I made during my course Introduction to Python at MassBay Community College.
+This project simulates a coffee machine using object-oriented programming in Python.
 
-## Features
+## Project Structure
 
-- Order espresso, latte, or cappuccino
-- Resource checking (water, milk, coffee)
-- Coin payment system
-- Profit tracking
-- Resource reporting
-
-## Technologies Used
-
-- Python
-- Object-Oriented Programming (OOP)
+```text
+coffee-maker-python/
+├── README.md
+├── .gitignore
+└── src/
+    ├── main.py
+    ├── coffee_maker.py
+    ├── menu.py
+    └── money_machine.py
 
 ## How to Run
+python src/main.py
 
-Run:
+## Skills Practiced
 
-python main.py
+Python
+Object-oriented programming
+Classes and methods
+Program organization
+User input
