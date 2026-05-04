@@ -14,11 +14,15 @@ coffee-maker-python/
     ├── menu.py
     └── money_machine.py
 
+
+```markdown
 ## How to Run
+
+```bash
 python src/main.py
 
+```markdown
 ## Skills Practiced
-
 Python
 Object-oriented programming
 Classes and methods
