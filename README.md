@@ -1,6 +1,10 @@
 # Coffee Maker Python Project
 
-This project simulates a coffee machine using object-oriented programming in Python.
+A simple Python program that simulates a coffee machine using object-oriented programming.
+
+## Project Overview
+
+This project practices core Python concepts by organizing a coffee machine simulation into separate files for the menu, machine resources, money handling, and main program logic.
 
 ## Project Structure
 
@@ -17,16 +21,18 @@ coffee-maker-python/
 
 ## How to Run
 
+From the main project folder, run:
+
+```bash
 python src/main.py
+```
 
 ## Skills Practiced
 
-Python  
-
-Object-oriented programming  
-
-Classes and methods  
-
-Program organization  
-
-User input  
+```text
+Python
+Object-oriented programming
+Classes and methods
+Program organization
+User input
+```
