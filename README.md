@@ -4,21 +4,15 @@ This project simulates a coffee machine using object-oriented programming in Pyt
 
 ## Project Structure
 
+```text
 coffee-maker-python/
-
-README.md
-
-.gitignore
-
-src/
-
-main.py
-
-coffee_maker.py
-
-menu.py
-
-money_machine.py
+├── README.md
+├── .gitignore
+└── src/
+    ├── main.py
+    ├── coffee_maker.py
+    ├── menu.py
+    └── money_machine.py
 
 ## How to Run
 
