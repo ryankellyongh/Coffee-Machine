@@ -13,6 +13,7 @@ coffee-maker-python/
     ├── coffee_maker.py
     ├── menu.py
     └── money_machine.py
+```
 
 ## How to Run
 
